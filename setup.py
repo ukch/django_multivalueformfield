@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="django_multivalueformfield",
-    version="0.0.1",
+    version="0.0.2",
     author="Joel Cross",
     author_email="joel@kazbak.co.uk",
     description="Multiple-value field for Django forms",
